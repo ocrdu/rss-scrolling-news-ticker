@@ -1,4 +1,4 @@
-A simple scrolling news ticker
+A simple RSS scrolling news ticker
 
 - Put everything in a directory on your webserver;
 - Open example.html in your browser; it should show a scrolling ticker (with Dutch news items in it 8-);
