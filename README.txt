@@ -11,4 +11,4 @@ Note that: - the scroller stops when the cursor hovers over it, to make it easie
            - a small php file is used to get around the same-origin policy. If you don't want to do that, don't use this;
            - there are two interesting tricks in the code that make this much simpler than many other implementations.
 
-If you feel like donating for this, you can do so here: ocrdu.nl/donations.
+If you feel like donating for this, you can do so here: http://ocrdu.nl/donations .
